@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jschiavinato
 - 👀 I’m interested in Web Development, Cloud and Linux.
-- 🌱 I’m currently learning JavaScript, Python, Djsngo,Node Js, AWS, MysQL and Docker.
+- 🌱 I’m currently learning JavaScript, Python, Django,Node Js, AWS, MysQL and Docker.
 - 💞️ I’m looking to collaborate on projects as a beginner.
 - 📫 How to reach me --> jefss1@hotmail.com
 
